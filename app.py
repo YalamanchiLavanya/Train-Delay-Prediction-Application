@@ -296,7 +296,7 @@ st.markdown("""
     .metric-label { color: #94a3b8; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; }
     .metric-value { color: #f8fafc; font-size: 1.8rem; font-weight: 800; margin-top: 4px; }
     </style>
-""", unsafe_allow_html=True)
+    """, unsafe_allow_html=True)
 
 # --- 4. DATASETS: REAL INDIAN RAILWAY ROUTES WITH INTERMEDIATE WAYPOINTS ---
 TRAINS_DATABASE = {
